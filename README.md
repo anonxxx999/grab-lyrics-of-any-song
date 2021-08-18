@@ -16,7 +16,7 @@ This python can work on any operation system (windows-linux-mac-android)
   4. Install "beautifulsoup4" library => pip3 install beautifulsoup4
 
 •For Android
-  pkg install python3
-  pkg install pip
-  pip3 install requests
-  pip3 install beautifulsoup4
+  1. pkg install python3
+  2. pkg install pip
+  3. pip3 install requests
+  4. pip3 install beautifulsoup4
